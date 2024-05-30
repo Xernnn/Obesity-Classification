@@ -1,5 +1,5 @@
-# Obesity Classification - Analysis of Spatial and Temporal Data Course Final Project
-
+# Obesity Classification 
+# Analysis of Spatial and Temporal Data Course Final Project
 ## University of Science and Technology of Hanoi
 ### ICT Department - Academic Year 3
 ### Lecturer: Nguyen Xuan Thanh (Obese)
