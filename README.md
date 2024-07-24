@@ -1,7 +1,7 @@
 # Obesity Classification 
 **Analysis of Spatial and Temporal Data Course Final Project**
 
-For a detailed analysis and complete data, please refer to the [final report](github.com/Xernnn/Obesity-Classification/blob/main/Group%205%20Spatial.pdf).
+For a detailed analysis and complete data, please refer to the [final report](Group%205%20Spatial.pdf).
 
 ---
 
